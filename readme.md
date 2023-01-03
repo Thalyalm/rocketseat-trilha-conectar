@@ -10,6 +10,7 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 - [ ] 
 
+<<<<<<< HEAD:README.md
 - [ ] 
 
 - [ ] 
@@ -75,3 +76,6 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 - [ ] 
 
 - [ ] 
+=======
+---
+>>>>>>> 2faf2f2a85da79f769b48c6a0b5e0bcb9a2c7f2a:readme.md
