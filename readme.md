@@ -4,7 +4,7 @@ Projeto criado na Trilha Conectar no [Rocketseat](https://www.rocketseat.com.br/
 
 ---
 
-### 01. Guia Estelar de Programação:
+### 1. Guia Estelar de Programação:
 
 O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
 
@@ -16,7 +16,7 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 ---
 
-### 02. Computador, Software e Hardware:
+### 2. Computador, Software e Hardware:
 
 O conjunto de aulas se concentra no funcionamento do computador, desvendando as propriedades de hardware, periféricos, software, firmware, drivers, sistemas operacionais, programas, memória RAM, HD e SSD e processadores.
 
@@ -28,7 +28,7 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 ---
 
-### 03. Internet, Roteadores e Servidores:
+### 3. Internet, Roteadores e Servidores:
 
 O conteúdo desta unidade de estudos investiga o funcionamento da internet, incluindo rede de computadores e comunicação, IP e MAC Address, servidores, DNS e HTTP.
 
@@ -40,7 +40,7 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 ---
 
-### 04. Sistemas Operacionais:
+### 4. Sistemas Operacionais:
 
 A unidade de aprendizagem aborda características e funcionalidades do sistema operacional, grupos de sistemas operacionais, tipos de interfaces de usuário, módulos do sistema operacional, Kernel, gerenciador de processos, gerenciador de arquivos e ferramentas de gerenciamento.
 
@@ -52,7 +52,7 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
 ---
 
-### 05. Linguagem de Programação:
+### 5. Linguagem de Programação:
 
 O conteúdo percorre o que é código e o que é codar, passando por conceitos como Low-level/High-level e sintaxe.
 
@@ -64,7 +64,7 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
 ---
 
-### 06. Tipos de Aplicações WEB:
+### 6. Tipos de Aplicações WEB:
 
 ---
 
