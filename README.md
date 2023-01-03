@@ -1,4 +1,4 @@
-# Rocketseat Trilha Conectar
+# Trilha Conectar
 
 Projeto criado na Trilha Conectar no [Rocketseat](https://www.rocketseat.com.br/)
 
