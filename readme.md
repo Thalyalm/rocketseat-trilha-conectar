@@ -34,7 +34,17 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 - [ ] Internet
 
-    - [ ] O que é internet?
+    - [x] O que é internet?
+
+    - [x] Rede de computadores e comunicação
+
+    - [x] IP e MAC Address
+
+    - [x] Servidores
+
+    - [ ] DNS
+    
+    - [ ] HTTP
 
 ---
 
