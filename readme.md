@@ -138,4 +138,20 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 
 - [ ] Tipos de Aplicações WEB
 
+    - [x] Introdução
+
+    - [ ] O que é uma webpage?
+
+    - [ ] O que é website estático e dinâmico?
+
+    - [ ] O que é uma Aplicação WEB?
+
+    - [ ] Front-end e Back-end de maneira lúdica
+
+    - [ ] Front-end vs Back-end
+
+    - [ ] Aplicação WEB Tradicional vs SPA
+
+    - [ ] Alinhando a sua jornada
+
 ---
