@@ -118,6 +118,18 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
 - [ ] Linguagem de Programação
 
+    - [x] Introdução
+
+    - [ ] O que é codar?
+
+    - [ ] O que é linguagem de programação?
+
+    - [ ] Low-level vs High-level
+
+    - [ ] Sintaxe
+
+    - [ ] Conclusão
+
 ---
 
 ### 6. Tipos de Aplicações WEB:
