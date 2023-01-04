@@ -84,7 +84,7 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 A unidade de aprendizagem aborda características e funcionalidades do sistema operacional, grupos de sistemas operacionais, tipos de interfaces de usuário, módulos do sistema operacional, Kernel, gerenciador de processos, gerenciador de arquivos e ferramentas de gerenciamento.
 
-- [ ] Sistemas Operacionais
+- [x] Sistemas Operacionais
 
     - [x] Introdução
 
