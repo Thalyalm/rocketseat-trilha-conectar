@@ -62,6 +62,8 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 - [x] Objetivo do curso
 
+    - [x] Introdução
+
 - [x] Internet
 
     - [x] O que é internet?
