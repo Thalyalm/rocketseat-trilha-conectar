@@ -120,7 +120,7 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
     - [x] Introdução
 
-    - [ ] O que é codar?
+    - [x] O que é codar?
 
     - [ ] O que é linguagem de programação?
 
