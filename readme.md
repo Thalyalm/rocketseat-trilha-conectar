@@ -26,11 +26,33 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 - [x] Objetivo do Curso
 
+    - [x] Introdução
+
 - [x] Hardware
+
+    - [x] O que é Hardware
+
+    - [x] Periféricos
 
 - [x] Software
 
+    - [x] O que é Software
+
+    - [x] Firmware
+
+    - [x] Drivers
+
+    - [x] Sistema Operacional
+    
+    - [x] Programas
+
 - [x] Por dentro do computador
+
+    - [x] Memória RAM
+
+    - [x] HD e SSD
+
+    - [x] Processador
 
 ---
 
