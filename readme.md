@@ -126,9 +126,9 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
     - [x] Low-level vs High-level
 
-    - [ ] Sintaxe
+    - [x] Sintaxe
 
-    - [ ] Conclusão
+    - [x] Conclusão
 
 ---
 
