@@ -150,7 +150,7 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 
     - [X] Front-end vs Back-end
 
-    - [ ] Aplicação WEB Tradicional vs SPA
+    - [x] Aplicação WEB Tradicional vs SPA
 
     - [ ] Alinhando a sua jornada
 
