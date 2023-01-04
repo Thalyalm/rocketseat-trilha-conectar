@@ -152,6 +152,6 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 
     - [x] Aplicação WEB Tradicional vs SPA
 
-    - [ ] Alinhando a sua jornada
+    - [x] Alinhando a sua jornada
 
 ---
