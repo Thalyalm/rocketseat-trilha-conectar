@@ -122,9 +122,9 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
     - [x] O que é codar?
 
-    - [ ] O que é linguagem de programação?
+    - [x] O que é linguagem de programação?
 
-    - [ ] Low-level vs High-level
+    - [x] Low-level vs High-level
 
     - [ ] Sintaxe
 
