@@ -142,7 +142,7 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 
     - [x] O que é uma webpage?
 
-    - [ ] O que é website estático e dinâmico?
+    - [x] O que é website estático e dinâmico?
 
     - [ ] O que é uma Aplicação WEB?
 
