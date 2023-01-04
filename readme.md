@@ -98,11 +98,11 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
     - [x] Módulos do Sistema Operacional
 
-    - [ ] Kernel
+    - [x] Kernel
 
-    - [ ] Gerenciador de Processo
+    - [x] Gerenciador de Processo
 
-    - [ ] Gerenciador de Arquivos
+    - [x] Gerenciador de Arquivos
 
     - [ ] Ferramentas de Gerenciamento
 
