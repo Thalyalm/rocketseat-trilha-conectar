@@ -88,11 +88,11 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
     - [x] Introdução
 
-    - [ ] O que é o Sistema Operacional?
+    - [x] O que é o Sistema Operacional?
 
-    - [ ] Características e Objetivo de um Sistema Operacional
+    - [x] Características e Objetivo de um Sistema Operacional
 
-    - [ ] Grupos de Sistemas Operacionais
+    - [x] Grupos de Sistemas Operacionais
 
     - [ ] Tipos de Interfaces do Usuário
 
