@@ -136,7 +136,7 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
 O módulo analisa as web pages, com esclarecimentos do que são websites estáticos e dinâmicos, aplicação web, front-end e back-end, aplicação web tradicional e SPA.
 
-- [ ] Tipos de Aplicações WEB
+- [x] Tipos de Aplicações WEB
 
     - [x] Introdução
 
