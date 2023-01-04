@@ -8,7 +8,7 @@ Projeto criado na Trilha Conectar no [Rocketseat](https://www.rocketseat.com.br/
 
 O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
 
-- [ ] Guia Estelar de Programação
+- [x] Guia Estelar de Programação
 
 ---
 
@@ -16,13 +16,13 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 O conjunto de aulas se concentra no funcionamento do computador, desvendando as propriedades de hardware, periféricos, software, firmware, drivers, sistemas operacionais, programas, memória RAM, HD e SSD e processadores.
 
-- [ ] Objetivo do Curso
+- [x] Objetivo do Curso
 
-- [ ] Hardware
+- [x] Hardware
 
-- [ ] Software
+- [x] Software
 
-- [ ] Por dentro do computador
+- [x] Por dentro do computador
 
 ---
 
@@ -30,7 +30,7 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 O conteúdo desta unidade de estudos investiga o funcionamento da internet, incluindo rede de computadores e comunicação, IP e MAC Address, servidores, DNS e HTTP.
 
-- [ ] Objetivo do curso
+- [x] Objetivo do curso
 
 - [ ] Internet
 
