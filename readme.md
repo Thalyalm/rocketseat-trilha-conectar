@@ -62,7 +62,7 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 - [x] Objetivo do curso
 
-- [ ] Internet
+- [x] Internet
 
     - [x] O que é internet?
 
@@ -72,9 +72,9 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
     - [x] Servidores
 
-    - [ ] DNS
+    - [x] DNS
     
-    - [ ] HTTP
+    - [x] HTTP
 
 ---
 
