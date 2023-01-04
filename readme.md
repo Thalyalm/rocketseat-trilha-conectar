@@ -86,6 +86,30 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
 - [ ] Sistemas Operacionais
 
+    - [x] Introdução
+
+    - [ ] O que é o Sistema Operacional?
+
+    - [ ] Características e Objetivo de um Sistema Operacional
+
+    - [ ] Grupos de Sistemas Operacionais
+
+    - [ ] Tipos de Interfaces do Usuário
+
+    - [ ] Módulos do Sistema Operacional
+
+    - [ ] Kernel
+
+    - [ ] Gerenciador de Processo
+
+    - [ ] Gerenciador de Arquivos
+
+    - [ ] Ferramentas de Gerenciamento
+
+    - [ ] Dúvidas Frequentes
+
+    - [ ] Revisão e Conclusão
+
 ---
 
 ### 5. Linguagem de Programação:
