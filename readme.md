@@ -146,9 +146,9 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 
     - [x] O que é uma Aplicação WEB?
 
-    - [ ] Front-end e Back-end de maneira lúdica
+    - [X] Front-end e Back-end de maneira lúdica
 
-    - [ ] Front-end vs Back-end
+    - [X] Front-end vs Back-end
 
     - [ ] Aplicação WEB Tradicional vs SPA
 
