@@ -106,9 +106,9 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
     - [x] Ferramentas de Gerenciamento
 
-    - [ ] Dúvidas Frequentes
+    - [x] Dúvidas Frequentes
 
-    - [ ] Revisão e Conclusão
+    - [x] Revisão e Conclusão
 
 ---
 
