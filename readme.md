@@ -94,9 +94,9 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
     - [x] Grupos de Sistemas Operacionais
 
-    - [ ] Tipos de Interfaces do Usuário
+    - [x] Tipos de Interfaces do Usuário
 
-    - [ ] Módulos do Sistema Operacional
+    - [x] Módulos do Sistema Operacional
 
     - [ ] Kernel
 
