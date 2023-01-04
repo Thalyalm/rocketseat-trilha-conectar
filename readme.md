@@ -1,6 +1,6 @@
 # Trilha Conectar
 
-Projeto criado na Trilha Conectar no [Rocketseat](https://www.rocketseat.com.br/)
+Projeto criado na Trilha Conectar na [Rocketseat](https://www.rocketseat.com.br/)
 
 ---
 
