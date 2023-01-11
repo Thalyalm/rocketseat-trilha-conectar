@@ -20,23 +20,9 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 O conteúdo desta unidade de estudos investiga o funcionamento da internet, incluindo rede de computadores e comunicação, IP e MAC Address, servidores, DNS e HTTP.
 
-- [x] Objetivo do curso
+- [x] [Objetivo do curso]()
 
-    - [x] Introdução
-
-- [x] Internet
-
-    - [x] O que é internet?
-
-    - [x] Rede de computadores e comunicação
-
-    - [x] IP e MAC Address
-
-    - [x] Servidores
-
-    - [x] DNS
-    
-    - [x] HTTP
+- [x] [Internet]()
 
 ---
 
