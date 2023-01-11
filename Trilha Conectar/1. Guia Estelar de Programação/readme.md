@@ -1,4 +1,4 @@
-### - [x] Guia Estelar de Programação:
+### Guia Estelar de Programação:
 
 - [x] Abertura
 
