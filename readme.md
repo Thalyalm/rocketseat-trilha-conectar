@@ -1,3 +1,9 @@
+[Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
+[Aulas](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas) /
+[Documentação](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/documentacao) /
+[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado)
+
+
 # Trilha Conectar
 
 Projeto criado na Trilha Conectar na [Rocketseat](https://www.rocketseat.com.br/)
