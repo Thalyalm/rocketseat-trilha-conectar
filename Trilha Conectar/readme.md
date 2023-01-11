@@ -24,35 +24,35 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 O conjunto de aulas se concentra no funcionamento do computador, desvendando as propriedades de hardware, periféricos, software, firmware, drivers, sistemas operacionais, programas, memória RAM, HD e SSD e processadores.
 
-- [x] Objetivo do Curso
+- [x] [Objetivo do Curso]()
 
-    - [x] Introdução
+    - [x] [Introdução]()
 
-- [x] Hardware
+- [x] [Hardware]()
 
-    - [x] O que é Hardware
+    - [x] [O que é Hardware]()
 
-    - [x] Periféricos
+    - [x] [Periféricos]()
 
-- [x] Software
+- [x] [Software]()
 
-    - [x] O que é Software
+    - [x] [O que é Software]()
 
-    - [x] Firmware
+    - [x] [Firmware]()
 
-    - [x] Drivers
+    - [x] [Drivers]()
 
-    - [x] Sistema Operacional
+    - [x] [Sistema Operacional]()
     
-    - [x] Programas
+    - [x] [Programas]()
 
-- [x] Por dentro do computador
+- [x] [Por dentro do computador]()
 
-    - [x] Memória RAM
+    - [x] [Memória RAM]()
 
-    - [x] HD e SSD
+    - [x] [HD e SSD]()
 
-    - [x] Processador
+    - [x] [Processador]()
 
 ---
 
