@@ -2,6 +2,8 @@
 
 ## - [x] Objetivo do curso
 
+---
+
 ## - [x] Hardware
 
 ### O que é Hardware
