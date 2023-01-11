@@ -12,6 +12,8 @@ O hardware é um termo técnico que se refere à parte física de computadores e
 
 Um periférico é “um dispositivo auxiliar usado para enviar ou receber informações do computador”
 
+---
+
 ## - [x] Software
 
 ### O que é Software
@@ -42,7 +44,9 @@ Um programa é um conjunto de instruções que descrevem uma tarefa e/ou trabalh
 
 São ferramentas desenhadas para o usuário realizar ações
 
-- [x] Por dentro do computador
+---
+
+## - [x] Por dentro do computador
 
 ### Memória RAM
 
