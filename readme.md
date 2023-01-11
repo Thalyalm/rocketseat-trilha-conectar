@@ -28,7 +28,7 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
     - [x] Introdução
 
-- [x] [Hardware]](Trilha%20Conectar/2.%20Computador%2C%20Software%20e%20Hardware)
+- [x] [Hardware](Trilha%20Conectar/2.%20Computador%2C%20Software%20e%20Hardware)
 
     - [x] O que é Hardware
 
