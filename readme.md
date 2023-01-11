@@ -60,11 +60,11 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 O conteúdo desta unidade de estudos investiga o funcionamento da internet, incluindo rede de computadores e comunicação, IP e MAC Address, servidores, DNS e HTTP.
 
-- [x] Objetivo do curso
+- [x] [Objetivo do curso](Trilha%20Conectar/3.%20Internet%2C%20Roteadores%20e%20Servidores)
 
     - [x] Introdução
 
-- [x] Internet
+- [x] [Internet](Trilha%20Conectar/3.%20Internet%2C%20Roteadores%20e%20Servidores)
 
     - [x] O que é internet?
 
@@ -84,7 +84,7 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 A unidade de aprendizagem aborda características e funcionalidades do sistema operacional, grupos de sistemas operacionais, tipos de interfaces de usuário, módulos do sistema operacional, Kernel, gerenciador de processos, gerenciador de arquivos e ferramentas de gerenciamento.
 
-- [x] Sistemas Operacionais
+- [x] [Sistemas Operacionais](Trilha%20Conectar/4.%20Sistemas%20Operacionais)
 
     - [x] Introdução
 
@@ -116,7 +116,7 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
 O conteúdo percorre o que é código e o que é codar, passando por conceitos como Low-level/High-level e sintaxe.
 
-- [x] Linguagem de Programação
+- [x] [Linguagem de Programação](Trilha%20Conectar/5.%20Linguagem%20de%20Programação)
 
     - [x] Introdução
 
@@ -136,7 +136,7 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
 O módulo analisa as web pages, com esclarecimentos do que são websites estáticos e dinâmicos, aplicação web, front-end e back-end, aplicação web tradicional e SPA.
 
-- [x] Tipos de Aplicações WEB
+- [x] [Tipos de Aplicações WEB](Trilha%20Conectar/6.%20Tipos%20de%20Aplicações%20web)
 
     - [x] Introdução
 
