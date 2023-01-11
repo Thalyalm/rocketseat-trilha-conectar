@@ -10,6 +10,14 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 - [x] [Guia Estelar de Programação]()
 
+    - [x] [Abertura]()
+
+    - [x] [Introdução aos fundamentos]()
+    
+    - [x] [O que é programar?]()
+    
+    - [x] [Como funciona a Web?]()
+
 ---
 
 ### 2. Computador, Software e Hardware:
