@@ -1,55 +1,56 @@
+# Guia Estela de Programação
 
+- [x] Guia Estela de Programação
 
-Guia Estela de Programação
+---
 
-●	Guia Estela de Programação
-  
-Computador, Software e Hardware
+# Computador, Software e Hardware
 
-●	Objetivo do curso
+- [x] Objetivo do curso
 
-●	Hardware
+- [x] Hardware
 
-O que é Hardware
+### O que é Hardware
 
 O hardware é um termo técnico que se refere à parte física de computadores e outros sistemas microeletrônicos
 
-Periféricos
+### Periféricos
 
 Um periférico é “um dispositivo auxiliar usado para enviar ou receber informações do computador”
 
-●	Software
+- [x] Software
 
-O que é Software
+### O que é Software
 
 Um conjunto de instruções que permite controlar um aparelho eletrônico.
 Parte lógica do computador
 
-Firmware
+### Firmware
 
 A função do Firmware é armazenar todas as informações para que o equipamento funcione corretamente
 O firmware é armazenado permanentemente num circuito integrado (chip) de memória de hardware no momento da fabricação do componente
 
-Drivers
+### Drivers
 
 A função do Driver é ser a ponte entre o sistema operacional e o firmware dos dispositivos eletrônicos.
 O driver é instalado no computador quando há necessidade de se conectar com um novo dispositivo
 
-Sistema Operacional
+### Sistema Operacional
 
 Um sistema operacional é responsável pelo gerenciamento de todo o hardware do seu computador. É ele que vai dizer, por exemplo, para o programa em execução, quando poderá utilizar o processador e por quanto tempo, quanto de memória RAM será usada, gerenciamento de SSD/HD, etc
 
-Programas
+### Programas
 
 Software -> Programa de computador
 Program -> Programa de computador ou aplicativo
 
 Um programa é um conjunto de instruções que descrevem uma tarefa e/ou trabalho específico no seu computador
+
 São ferramentas desenhadas para o usuário realizar ações
 
-●	Por dentro do computador
+- [x] Por dentro do computador
 
-Memória RAM
+### Memória RAM
 
 A memória RAM é um espaço temporário de informações do sistema operacional e de aplicativos em uso
 
@@ -57,7 +58,7 @@ Quando uma tarefa é concluída por algum software, os arquivos que estavam em u
 
 Quando o computador é desligado e a memória é limpa automaticamente
 
-HD e SSD
+### HD e SSD
 
 O HD e o SSD são dispositivos de armazenamento de dados
 
@@ -67,7 +68,7 @@ O SSD não possui partes móveis, apenas chips de memória
 
 Independentemente se o computador está desligado ou não, as informações contidas no HD ou SSD permanecem guardadas
 
-Processador
+### Processador
 
 O processador é o cérebro do computador
 
@@ -79,13 +80,15 @@ Ele transforma dados em informações, por exemplo, carregar páginas, fazer dow
 
 A velocidade que seu computador abra ou execute programas é em parte de responsabilidade do processador
 
-Internet, Roteadores e Servidores
+---
 
-●	Objetivo do curso
+# Internet, Roteadores e Servidores
 
-●	Internet
+- [x] Objetivo do curso
 
-O que é internet?
+- [x] Internet
+
+### O que é internet?
 
 A internet são redes interligadas pelo mundo todo
 
@@ -93,7 +96,7 @@ Uma rede tem como objetivo interligar computadores para fornecer aos usuários a
 
 A internet é feita de cabos que conectam o mundo inteiro
 
-Rede de computadores e comunicação 
+### Rede de computadores e comunicação 
 
 A internet pode “cair”?
 
@@ -101,7 +104,7 @@ Rede de computadores é a conexão de dispositivos para permitir a transmissão 
 
 A comunicação na internet é feita de protocolos (conjuntos de regras)
 
-IP e MAC Address
+### IP e MAC Address
 
 Internet Protocol é um número identificador dado ao seu computador, ou roteador, pelo provedor de internet no momento que se conecta a rede
 
@@ -109,18 +112,18 @@ MAC Address é um número de série identificador gravado no dispositivo de rede
 
 Através do IP que seu computador pode enviar e receber dados na internet
 
-Servidores
+### Servidores
 
 Um servidor é um computador equipado com um ou mais processadores, portas de comunicação, softwares, algum sistema para armazenamento de dados como HDs e/ou SSDs
 
 Fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser, por exemplo, hospedagem de site, provedor de emails, entre outros
 
-DNS
+### DNS
 
 Os servidores DNS (Domain Name System, ou sistema de nomes de domínios) são os responsáveis por localizar e traduzir para números IP ou endereços dos sites que digitamos nos navegadores
 O DNS permite que você acesse um site digitando um endereço nominal em lugar de números e pontos
 
-HTTP
+### HTTP
 
 Hypertext Transfer Protocol, sigla HTTP
 
@@ -130,11 +133,13 @@ No momento que o usuário digita uma URL em algum navegador, o navegador cria um
 
 O HTTPS - Hypertext Transfer Protocol secure adiciona uma criptografia às informações enviadas ou recebidas de um site
 
-Sistemas Operacionais
+---
 
-●	Sistemas Operacionais
+# Sistemas Operacionais
 
-O que é o Sistema Operacional?
+- [x] Sistemas Operacionais
+
+### O que é o Sistema Operacional?
 
 Interface entre o usuário e a máquina
 
@@ -145,7 +150,7 @@ Programa que irá controlar seu aparelho (computador, celular)
 
 Conversar com o computador em linguagem de máquina
 
-Características e objetivo de um Sistema Operacional
+### Características e objetivo de um Sistema Operacional
 
 1. Fácil entendimento para o usuário
 	Experiência do usuário
@@ -159,7 +164,7 @@ Características e objetivo de um Sistema Operacional
 	Programas
 
 
-Grupos de Sistemas Operacionais
+### Grupos de Sistemas Operacionais
 
 Os dois grupos mais conhecidos são
 
@@ -174,7 +179,7 @@ Windows 7
 Windows 10
 Windows Server
 
-Tipos de interfaces do usuário
+### Tipos de interfaces do usuário
 
 GUI:
 	Graphical User Interface
@@ -192,7 +197,7 @@ CLI:
 	Emitir comandos em texto para o computador
 		Criar arquivos e pastas, por exemplo
 
-Kernel
+### Kernel
 
 Componente central, o cerne do S.O (Sistema Operacional)
 
@@ -203,10 +208,7 @@ Permanece executando enquanto o S.O (Sistema Operacional) estiver ligado
 Responsabilidades
 	Gerenciamento de memória, processos, armazenamento e dispositivos
 
- 
-
-
-O gerenciador de processos
+### O gerenciador de processos
 
 Processo é um programa em execução
 
@@ -225,7 +227,7 @@ Várias tarefas podem ser executadas simultaneamente
 
 Tarefas em segundo plano
 
-O gerenciador de arquivos
+### O gerenciador de arquivos
 
 File System
 
@@ -240,7 +242,7 @@ ext3, ext4
 HFS+, APFS
 São criados quando formatamos o nosso disco, por exemplo
 
-Ferramentas de gerenciamento
+### Ferramentas de gerenciamento
 
 Tarefas (task manager, activity)
 
@@ -266,7 +268,7 @@ Se for programar aplicativos para funcionar somente em Windows?
 Meu computador é muito fraco pra ter Windows e eu só vou programa para web, devo usar Linux?
 	Sim. Linux Migt
 
-Revisão e Conclusão
+### Revisão e Conclusão
 
 Para “operar” um computador ou smartphone, precisamos de um “sistema operacional”
 
@@ -279,11 +281,13 @@ Gerencia a máquina em diversos níveis
 
 Provavelmente seu sistema atual vai servir para você programar para web
 
-Linguagem de Programação
+---
 
-●	Linguagem de Programação
+# Linguagem de Programação
 
-O que é codar?
+- [x] Linguagem de Programação
+
+### O que é codar?
 
 Escrever para o computador
 
@@ -309,7 +313,7 @@ Existem códigos em muitos eletrônicos
 
 Codar é simples
 
-O que é linguagem de programação?
+### O que é linguagem de programação?
 
 Usada para dar instruções ao computador
 
@@ -323,7 +327,7 @@ Executa tarefas e faz cálculos
 Mas ele só entende uma língua: A binária
 
 
-Low-level vs High-level
+### Low-level vs High-level
 
 Low-level
 
@@ -355,7 +359,7 @@ Leva mais tempo para a máquina traduzir e entender
 Exemplo:
 	JavaScript, Python, Rust…
 
-Sintaxe
+### Sintaxe
 
 Conjuntos de regras de escrita
 
@@ -367,7 +371,7 @@ Símbolos
 Palavras reservadas
 	If, else, while, for, var, let, const
 
-Conclusão
+### Conclusão
 
 Dizer ao computador o que fazer
 
@@ -379,11 +383,13 @@ Ferramenta
 
 Programar é facilitar a comunicação entre humanidade e máquinas
 
-Tipos de Aplicações web
+---
 
-●	Tipos de Aplicações web
+# Tipos de Aplicações web
 
-Introdução
+- [x] Tipos de Aplicações web
+
+### Introdução
 
 Requisitos para este curso
 	Conhecimentos básicos de computador
@@ -391,7 +397,7 @@ Requisitos para este curso
 	Internet
 Programação para web
 
-O que é uma webpage?
+### O que é uma webpage?
 
 Página web
 
@@ -405,12 +411,7 @@ Resposta dada pelo servidor é uma cópia da página
 	CSS - Cascading Style Sheet
 	JavaScript
 
-
-
-
-
-
-O que é website estático e dinâmico?
+### O que é website estático e dinâmico?
 
 Sites
 
@@ -443,11 +444,7 @@ Modificação sem precisar mexer no código
 
 Com o mesmo modelo de página, é gerada uma página em tempo real
 
- 
-
-
-
-O que é uma Aplicação WEB?
+### O que é uma Aplicação WEB?
 
 Aplicação web
 
@@ -471,10 +468,9 @@ Performance
 Acessibilidade
 Visual, auditiva, SEO
 
-Front-end e Back-end de maneira lúdica
+### Front-end e Back-end de maneira lúdica
 
- 
-Front-end vs Back-end
+### Front-end vs Back-end
 
 Front-end 
 
@@ -499,7 +495,7 @@ Tecnologias
 	PHP, Java, Python, JavaScript
 	Banco de dados
 
-Aplicação WEB Tradicional vs SPA
+### Aplicação WEB Tradicional vs SPA
 
 Aplicação WEB Tradicional
 
@@ -522,10 +518,7 @@ Servidor responde a aplicação front-end
 	Front-end feito com uso de frameworks
 	Back-end é no formato de API
 
- 
- 
-
-Alinhando a sua jornada
+### Alinhando a sua jornada
 
 Sites estáticos
 
