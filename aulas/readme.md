@@ -28,13 +28,13 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
 ---
 
-### 5. [Linguagem de Programação](/aulas/linguagem-de-programacao) :ballot_box_with_check:
+### 5. :ballot_box_with_check: [Linguagem de Programação](/aulas/linguagem-de-programacao) 
 
 O conteúdo percorre o que é código e o que é codar, passando por conceitos como Low-level/High-level e sintaxe.
 
 ---
 
-### 6. [Tipos de Aplicações WEB](/aulas/tipos-de-aplicacoes-web) :ballot_box_with_check:
+### 6. :ballot_box_with_check: [Tipos de Aplicações WEB](/aulas/tipos-de-aplicacoes-web)
 
 O módulo analisa as web pages, com esclarecimentos do que são websites estáticos e dinâmicos, aplicação web, front-end e back-end, aplicação web tradicional e SPA.
 
