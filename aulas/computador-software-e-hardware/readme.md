@@ -8,12 +8,12 @@
 
 O conjunto de aulas se concentra no funcionamento do computador, desvendando as propriedades de hardware, periféricos, software, firmware, drivers, sistemas operacionais, programas, memória RAM, HD e SSD e processadores.
 
-- [x] [Objetivo do Curso](/aulas/computador-software-e-hardware/objetivo-do-curso)
+[Objetivo do Curso](/aulas/computador-software-e-hardware/objetivo-do-curso) :ballot_box_with_check:
 
-- [x] [Hardware](/aulas/computador-software-e-hardware/hardware)
+[Hardware](/aulas/computador-software-e-hardware/hardware) :ballot_box_with_check:
 
-- [x] [Software](/aulas/computador-software-e-hardware/software)
+[Software](/aulas/computador-software-e-hardware/software) :ballot_box_with_check:
 
-- [x] [Por dentro do computador](/aulas/computador-software-e-hardware/por-dentro-do-computador)
+[Por dentro do computador](/aulas/computador-software-e-hardware/por-dentro-do-computador) :ballot_box_with_check:
 
 ---
