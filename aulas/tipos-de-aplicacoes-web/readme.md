@@ -8,6 +8,6 @@
 
 O módulo analisa as web pages, com esclarecimentos do que são websites estáticos e dinâmicos, aplicação web, front-end e back-end, aplicação web tradicional e SPA.
 
-- [x] [Tipos de Aplicações WEB]()
+- [x] [Tipos de Aplicações WEB](/aulas/tipos-de-aplicacoes-web/tipos-de-aplicacoes-web)
 
 ---
