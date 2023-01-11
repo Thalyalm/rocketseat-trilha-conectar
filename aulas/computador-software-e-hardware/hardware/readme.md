@@ -4,8 +4,8 @@
 
 ---
 
-- [x] O que é Hardware
+:ballot_box_with_check: O que é Hardware
 
-- [x] Periféricos
+:ballot_box_with_check: Periféricos
 
 ---

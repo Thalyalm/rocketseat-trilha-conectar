@@ -4,12 +4,12 @@
 
 ---
 
-- [x] Abertura
+:ballot_box_with_check: Abertura
 
-- [x] Introdução aos fundamentos
+:ballot_box_with_check: Introdução aos fundamentos
     
-- [x] O que é programar?
+:ballot_box_with_check: O que é programar?
     
-- [x] Como funciona a Web?
+:ballot_box_with_check: Como funciona a Web?
 
 ---

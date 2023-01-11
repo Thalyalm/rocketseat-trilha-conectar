@@ -8,6 +8,6 @@
 
 O conteúdo percorre o que é código e o que é codar, passando por conceitos como Low-level/High-level e sintaxe.
 
-- [x] [Linguagem de Programação](/aulas/linguagem-de-programacao//linguagem-de-programacao)
+:ballot_box_with_check: [Linguagem de Programação](/aulas/linguagem-de-programacao//linguagem-de-programacao)
 
 ---

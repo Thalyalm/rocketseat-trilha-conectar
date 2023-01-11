@@ -4,16 +4,16 @@
 
 ---
 
-- [x] Introdução
+:ballot_box_with_check: Introdução
 
-- [x] O que é codar?
+:ballot_box_with_check: O que é codar?
 
-- [x] O que é linguagem de programação?
+:ballot_box_with_check: O que é linguagem de programação?
 
-- [x] Low-level vs High-level
+:ballot_box_with_check: Low-level vs High-level
 
-- [x] Sintaxe
+:ballot_box_with_check: Sintaxe
 
-- [x] Conclusão
+:ballot_box_with_check: Conclusão
 
 ---

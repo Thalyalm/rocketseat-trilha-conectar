@@ -4,16 +4,16 @@
 
 ---
 
-- [x] O que é internet?
+:ballot_box_with_check: O que é internet?
 
-- [x] Rede de computadores e comunicação
+:ballot_box_with_check: Rede de computadores e comunicação
 
-- [x] IP e MAC Address
+:ballot_box_with_check: IP e MAC Address
 
-- [x] Servidores
+:ballot_box_with_check: Servidores
 
-- [x] DNS
+:ballot_box_with_check: DNS
 
-- [x] HTTP
+:ballot_box_with_check: HTTP
 
 ---

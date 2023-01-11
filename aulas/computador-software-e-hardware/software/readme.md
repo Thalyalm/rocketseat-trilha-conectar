@@ -4,14 +4,14 @@
 
 ---
 
-- [x] O que é Software
+:ballot_box_with_check: O que é Software
 
-- [x] Firmware
+:ballot_box_with_check: Firmware
 
-- [x] Drivers
+:ballot_box_with_check: Drivers
 
-- [x] Sistema Operacional
+:ballot_box_with_check: Sistema Operacional
     
-- [x] Programas
+:ballot_box_with_check: Programas
 
 ---

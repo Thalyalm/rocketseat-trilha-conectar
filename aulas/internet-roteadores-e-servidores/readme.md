@@ -8,8 +8,8 @@
 
 O conteúdo desta unidade de estudos investiga o funcionamento da internet, incluindo rede de computadores e comunicação, IP e MAC Address, servidores, DNS e HTTP.
 
-- [x] [Objetivo do curso](/aulas/internet-roteadores-e-servidores/objetivo-do-curso)
+:ballot_box_with_check: [Objetivo do curso](/aulas/internet-roteadores-e-servidores/objetivo-do-curso)
 
-- [x] [Internet](/aulas/internet-roteadores-e-servidores/internet)
+:ballot_box_with_check: [Internet](/aulas/internet-roteadores-e-servidores/internet)
 
 ---

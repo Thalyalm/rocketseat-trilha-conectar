@@ -4,20 +4,20 @@
 
 ---
 
-- [x] Introdução
+:ballot_box_with_check: Introdução
 
-- [x] O que é uma webpage?
+:ballot_box_with_check: O que é uma webpage?
 
-- [x] O que é website estático e dinâmico?
+:ballot_box_with_check: O que é website estático e dinâmico?
 
-- [x] O que é uma Aplicação WEB?
+:ballot_box_with_check: O que é uma Aplicação WEB?
 
-- [X] Front-end e Back-end de maneira lúdica
+:ballot_box_with_check: Front-end e Back-end de maneira lúdica
 
-- [X] Front-end vs Back-end
+:ballot_box_with_check: Front-end vs Back-end
 
-- [x] Aplicação WEB Tradicional vs SPA
+:ballot_box_with_check: Aplicação WEB Tradicional vs SPA
 
-- [x] Alinhando a sua jornada
+:ballot_box_with_check: Alinhando a sua jornada
 
 ---
