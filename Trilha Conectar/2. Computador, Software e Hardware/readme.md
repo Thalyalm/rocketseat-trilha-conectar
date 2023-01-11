@@ -80,4 +80,4 @@ Ele transforma dados em informações, por exemplo, carregar páginas, fazer dow
 
 A velocidade que seu computador abra ou execute programas é em parte de responsabilidade do processador
 
----
+[Inicio](https://github.com/Thalyalm/rocketseat-trilha-conectar)
