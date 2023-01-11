@@ -26,13 +26,13 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 # Computador, Software e Hardware
 
-- [x][Objetivo do curso]()
+- [x] [Objetivo do curso]()
 
-- [x][Hardware]()
+- [x] [Hardware]()
 
-- [x][Software]()
+- [x] [Software]()
 
-- [x][Por dentro do computador]()
+- [x] [Por dentro do computador]()
 
 ---
 
