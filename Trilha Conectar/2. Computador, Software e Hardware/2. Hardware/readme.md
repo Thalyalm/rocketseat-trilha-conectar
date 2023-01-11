@@ -6,4 +6,6 @@ O hardware é um termo técnico que se refere à parte física de computadores e
 
 ### Periféricos
 
-Um periférico é “um dispositivo auxiliar usado para enviar ou receber informações do computador”
+Um periférico é “um dispositivo auxiliar usado para enviar ou receber informações do 
+
+[Inicio](https://github.com/Thalyalm/rocketseat-trilha-conectar)
