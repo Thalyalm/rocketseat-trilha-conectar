@@ -8,7 +8,7 @@ Projeto criado na Trilha Conectar na [Rocketseat](https://www.rocketseat.com.br/
 
 O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
 
-- [x] [Guia Estelar de Programação](Trilha%20Conectar/1.%20Guia%20Estelar%20de%20Programação)
+- [x] Guia Estelar de Programação
 
     - [x] Abertura
 
@@ -24,15 +24,35 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 O conjunto de aulas se concentra no funcionamento do computador, desvendando as propriedades de hardware, periféricos, software, firmware, drivers, sistemas operacionais, programas, memória RAM, HD e SSD e processadores.
 
-# Computador, Software e Hardware
+- [x] Objetivo do Curso
 
-- [x] [Objetivo do curso]()
+    - [x] Introdução
 
-- [x] [Hardware]()
+- [x] Hardware
 
-- [x] [Software]()
+    - [x] O que é Hardware
 
-- [x] [Por dentro do computador]()
+    - [x] Periféricos
+
+- [x] Software
+
+    - [x] O que é Software
+
+    - [x] Firmware
+
+    - [x] Drivers
+
+    - [x] Sistema Operacional
+    
+    - [x] Programas
+
+- [x] Por dentro do computador
+
+    - [x] Memória RAM
+
+    - [x] HD e SSD
+
+    - [x] Processador
 
 ---
 
@@ -40,11 +60,11 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 O conteúdo desta unidade de estudos investiga o funcionamento da internet, incluindo rede de computadores e comunicação, IP e MAC Address, servidores, DNS e HTTP.
 
-- [x] [Objetivo do curso](Trilha%20Conectar/3.%20Internet%2C%20Roteadores%20e%20Servidores)
+- [x] Objetivo do curso
 
     - [x] Introdução
 
-- [x] [Internet](Trilha%20Conectar/3.%20Internet%2C%20Roteadores%20e%20Servidores)
+- [x] Internet
 
     - [x] O que é internet?
 
@@ -64,7 +84,7 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 A unidade de aprendizagem aborda características e funcionalidades do sistema operacional, grupos de sistemas operacionais, tipos de interfaces de usuário, módulos do sistema operacional, Kernel, gerenciador de processos, gerenciador de arquivos e ferramentas de gerenciamento.
 
-- [x] [Sistemas Operacionais](Trilha%20Conectar/4.%20Sistemas%20Operacionais)
+- [x] Sistemas Operacionais
 
     - [x] Introdução
 
@@ -96,7 +116,7 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
 O conteúdo percorre o que é código e o que é codar, passando por conceitos como Low-level/High-level e sintaxe.
 
-- [x] [Linguagem de Programação](Trilha%20Conectar/5.%20Linguagem%20de%20Programação)
+- [x] Linguagem de Programação
 
     - [x] Introdução
 
@@ -116,7 +136,7 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
 O módulo analisa as web pages, com esclarecimentos do que são websites estáticos e dinâmicos, aplicação web, front-end e back-end, aplicação web tradicional e SPA.
 
-- [x] [Tipos de Aplicações WEB](Trilha%20Conectar/6.%20Tipos%20de%20Aplicações%20web)
+- [x] Tipos de Aplicações WEB
 
     - [x] Introdução
 
