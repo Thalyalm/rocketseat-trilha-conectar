@@ -1,10 +1,10 @@
 # Computador, Software e Hardware
 
-## [x] Objetivo do curso
+## Objetivo do curso [x] 
 
 ---
 
-## [x] Hardware
+## Hardware [x] 
 
 ### O que é Hardware
 
@@ -16,7 +16,7 @@ Um periférico é “um dispositivo auxiliar usado para enviar ou receber inform
 
 ---
 
-## [x] Software
+## Software [x]
 
 ### O que é Software
 
@@ -48,7 +48,7 @@ São ferramentas desenhadas para o usuário realizar ações
 
 ---
 
-## [x] Por dentro do computador
+## Por dentro do computador [x]
 
 ### Memória RAM
 
