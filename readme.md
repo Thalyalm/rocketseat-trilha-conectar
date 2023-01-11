@@ -8,7 +8,7 @@ Projeto criado na Trilha Conectar na [Rocketseat](https://www.rocketseat.com.br/
 
 O módulo traz uma introdução à programação com conceituações como algoritmo, lógica de programação, dados e manipulação de dados e resolução de problemas com exemplos. As aulas deste seção também exploram o funcionamento da web, com os fundamentos de URL, HTTP, TCP, IP, proxies, cliente e servidor e browser.
 
-- [x] Guia Estelar de Programação
+- [x] [Guia Estelar de Programação](Trilha%20Conectar/1.%20Guia%20Estelar%20de%20Programação)
 
     - [x] Abertura
 
