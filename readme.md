@@ -24,35 +24,15 @@ O módulo traz uma introdução à programação com conceituações como algori
 
 O conjunto de aulas se concentra no funcionamento do computador, desvendando as propriedades de hardware, periféricos, software, firmware, drivers, sistemas operacionais, programas, memória RAM, HD e SSD e processadores.
 
-- [x] [Objetivo do Curso](Trilha%20Conectar/2.%20Computador%2C%20Software%20e%20Hardware)
+# Computador, Software e Hardware
 
-    - [x] Introdução
+## - [x][Objetivo do curso]()
 
-- [x] [Hardware](Trilha%20Conectar/2.%20Computador%2C%20Software%20e%20Hardware)
+## - [x][Hardware]()
 
-    - [x] O que é Hardware
+## - [x][Software]()
 
-    - [x] Periféricos
-
-- [x] [Software](Trilha%20Conectar/2.%20Computador%2C%20Software%20e%20Hardware)
-
-    - [x] O que é Software
-
-    - [x] Firmware
-
-    - [x] Drivers
-
-    - [x] Sistema Operacional
-    
-    - [x] Programas
-
-- [x] [Por dentro do computador](Trilha%20Conectar/2.%20Computador%2C%20Software%20e%20Hardware)
-
-    - [x] Memória RAM
-
-    - [x] HD e SSD
-
-    - [x] Processador
+## - [x][Por dentro do computador]()
 
 ---
 
