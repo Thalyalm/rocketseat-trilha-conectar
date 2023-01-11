@@ -4,10 +4,10 @@
 
 ---
 
-- [x] Memória RAM
+:ballot_box_with_check: Memória RAM
 
-- [x] HD e SSD
+:ballot_box_with_check: HD e SSD
 
-- [x] Processador
+:ballot_box_with_check: Processador
 
 ---
