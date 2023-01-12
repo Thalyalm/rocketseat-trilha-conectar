@@ -12,4 +12,4 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos)

@@ -12,4 +12,4 @@ A unidade de aprendizagem aborda características e funcionalidades do sistema o
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos)

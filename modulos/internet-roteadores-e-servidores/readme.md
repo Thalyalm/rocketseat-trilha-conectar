@@ -14,4 +14,4 @@ O conteúdo desta unidade de estudos investiga o funcionamento da internet, incl
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos)

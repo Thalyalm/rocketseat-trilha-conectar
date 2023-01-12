@@ -18,4 +18,4 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos)

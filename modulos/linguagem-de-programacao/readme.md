@@ -12,4 +12,4 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos)
