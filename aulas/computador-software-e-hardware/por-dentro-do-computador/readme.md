@@ -13,6 +13,8 @@ Quando uma tarefa é concluída por algum software, os arquivos que estavam em u
 
 Quando o computador é desligado e a memória é limpa automaticamente.
 
+---
+
 :ballot_box_with_check: HD e SSD
 
 O HD e o SSD são dispositivos de armazenamento de dados.
@@ -22,6 +24,8 @@ O HD usa pratos mecânicos e um cabeçote móvel de leitura/gravação para aces
 O SSD não possui partes móveis, apenas chips de memória.
 
 Independentemente se o computador está desligado ou não, as informações contidas no HD ou SSD permanecem guardadas.
+
+---
 
 :ballot_box_with_check: Processador
 
@@ -36,3 +40,5 @@ Ele transforma dados em informações, por exemplo, carregar páginas, fazer dow
 A velocidade que seu computador abra ou execute programas é em parte de responsabilidade do processador.
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/computador-software-e-hardware)
