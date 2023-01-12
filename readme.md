@@ -6,6 +6,6 @@
 
 # Trilha Conectar
 
-Projeto criado na Trilha Conectar na [Rocketseat](https://www.rocketseat.com.br/)
+Base de conhecimento criada na Trilha Conectar na [Rocketseat](https://www.rocketseat.com.br/)
 
 ---
