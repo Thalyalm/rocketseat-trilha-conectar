@@ -1,6 +1,6 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
 [Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
-[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf) /
+[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
 
 ---
 
