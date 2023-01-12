@@ -1,7 +1,6 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
 [Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
-[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf) /
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/internet-roteadores-e-servidores)
+[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
 
 ---
 
@@ -63,4 +62,4 @@ O HTTPS - Hypertext Transfer Protocol secure adiciona uma criptografia às infor
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/internet-roteadores-e-servidores)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/internet-roteadores-e-servidores)
