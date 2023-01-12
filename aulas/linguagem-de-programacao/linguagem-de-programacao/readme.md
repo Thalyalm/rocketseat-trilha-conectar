@@ -20,6 +20,7 @@ Linguagem humana x máquina.
 Curiosidades sobre codar.
 
 A pessoa que cria códigos.
+    
     Programas, desenvolvedora, dev, developer.
 
 Código vs Programa.
@@ -29,6 +30,7 @@ Códigos são comandos, ordens, instruções ao computador.
 O computador provavelmente irá traduzir o seu código.
 
 Existem códigos em muitos eletrônicos.
+    
     Microondas, semáforos, roteadores, avião.
 
 Codar é simples.
@@ -40,6 +42,7 @@ Codar é simples.
 Usada para dar instruções ao computador.
 
 Computador
+    
     Imagina o computador…;
     Input e Output;
     Executa tarefas e faz cálculos;
@@ -51,32 +54,34 @@ Computador
 
 Low-level:
 
-Significa baixo nível.
+    Significa baixo nível.
 
-Mais próxima da máquina, do binário
-    É mais difícil de escrever e de ler;
-    É mais rápida.
+    Mais próxima da máquina, do binário
+    
+        É mais difícil de escrever e de ler;
 
-Existe pouca interferência de tradução.
+        É mais rápida.
 
-A programação começou pelo baixo nível.
+    Existe pouca interferência de tradução.
 
-Exemplo:
-    Assembly.
+    A programação começou pelo baixo nível.
+
+    Exemplo:
+        Assembly.
 
 High-level:
 
-Significa alto nível.
+    Significa alto nível.
 
-Mais próxima da comunicação humana.
-    If, else, function, object, class…
+    Mais próxima da comunicação humana.
+        If, else, function, object, class…
 
-Leva mais tempo para a máquina traduzir e entender.
-    Compilar ou interpretar;
-    Nada mais que milissegundos.
+    Leva mais tempo para a máquina traduzir e entender.
+        Compilar ou interpretar;
+        Nada mais que milissegundos.
 
-Exemplo:
-    JavaScript, Python, Rust…
+    Exemplo:
+        JavaScript, Python, Rust…
 
 ---
 
