@@ -11,8 +11,6 @@
 
 :ballot_box_with_check: O que é o Sistema Operacional?
 
----
-
 Interface entre o usuário e a máquina.
 
 Programa que irá controlar seu aparelho (computador, celular).
