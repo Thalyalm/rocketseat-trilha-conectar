@@ -173,3 +173,5 @@ Gerencia a máquina em diversos níveis.
 Provavelmente seu sistema atual vai servir para você programar para web.
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/sistemas-operacionais)
