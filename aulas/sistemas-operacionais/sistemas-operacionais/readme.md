@@ -89,6 +89,8 @@ Permanece executando enquanto o S.O (Sistema Operacional) estiver ligado.
 Responsabilidades.
     Gerenciamento de memória, processos, armazenamento e dispositivos.
 
+---
+
 :ballot_box_with_check: Gerenciador de Processo
 
 Processo é um programa em execução.
