@@ -135,6 +135,8 @@ Tarefas (task manager, activity).
 
 Pacotes (chocolatey, brew, apt, snap).
 
+---
+
 :ballot_box_with_check: Dúvidas Frequentes
 
 Windows, Linux ou Mac para programar?
