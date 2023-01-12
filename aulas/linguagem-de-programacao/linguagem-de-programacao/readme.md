@@ -92,9 +92,11 @@ Conjuntos de regras de escrita.
 Cada linguagem tem as suas regras.
  
 Símbolos:
+    
     {} () ; - ++  - -
 
 Palavras reservadas:
+    
     If, else, while, for, var, let, const.
 
 ---
