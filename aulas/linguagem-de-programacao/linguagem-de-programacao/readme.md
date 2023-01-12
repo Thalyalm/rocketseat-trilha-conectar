@@ -76,7 +76,7 @@ Leva mais tempo para a máquina traduzir e entender.
     Nada mais que milissegundos.
 
 Exemplo:
-	JavaScript, Python, Rust…
+    JavaScript, Python, Rust…
 
 ---
 
