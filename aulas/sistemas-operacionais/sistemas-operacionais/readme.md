@@ -6,6 +6,7 @@
 
 :ballot_box_with_check: Introdução
 
+
 :ballot_box_with_check: O que é o Sistema Operacional?
 
 Interface entre o usuário e a máquina.
@@ -16,6 +17,7 @@ Programa que irá controlar seu aparelho (computador, celular).
     Gerenciamento de tarefas.
 
 Conversar com o computador em linguagem de máquina.
+
 
 :ballot_box_with_check: Características e Objetivo de um Sistema Operacional
 
@@ -30,40 +32,44 @@ Conversar com o computador em linguagem de máquina.
 3. Gerenciamento dos Software
     Programas.
 
+
 :ballot_box_with_check: Grupos de Sistemas Operacionais
 
 Os dois grupos mais conhecidos são:
 
-    Unix:
-        Linus
-        OS X
-        Android
-        iOS
+Unix:
+    Linus
+    OS X
+    Android
+    iOS
 
-    Windows:
-        Windows 7
-        Windows 10
-        Windows Server
+Windows:
+    Windows 7
+    Windows 10
+    Windows Server
+
 
 :ballot_box_with_check: Tipos de Interfaces do Usuário
 
 GUI:
-    Graphical User Interface;
+Graphical User Interface;
 
-    Interface gráfica, elementos gráficos.
-        Cursor do mouse ou touch;
-        Área de trabalho;
-        Criar arquivos e pastas.
+Interface gráfica, elementos gráficos.
+    Cursor do mouse ou touch;
+    Área de trabalho;
+    Criar arquivos e pastas.
 
 CLI:
-    Command-Line interface;
+Command-Line interface;
 
-    Linha de comando;
+Linha de comando;
 
-    Emitir comandos em texto para o computador.
-        Criar arquivos e pastas, por exemplo.
+Emitir comandos em texto para o computador.
+    Criar arquivos e pastas, por exemplo.
+
 
 :ballot_box_with_check: Módulos do Sistema Operacional
+
 
 :ballot_box_with_check: Kernel
 
@@ -75,6 +81,7 @@ Permanece executando enquanto o S.O (Sistema Operacional) estiver ligado.
 
 Responsabilidades.
     Gerenciamento de memória, processos, armazenamento e dispositivos.
+
 
 :ballot_box_with_check: Gerenciador de Processo
 
@@ -110,6 +117,7 @@ Tipos de sistemas de arquivos:
     HFS+, APFS;
     São criados quando formatamos o nosso disco, por exemplo.
 
+
 :ballot_box_with_check: Ferramentas de Gerenciamento
 
 Tarefas (task manager, activity).
@@ -135,6 +143,7 @@ Se for programar aplicativos para funcionar somente em Windows?
 
 Meu computador é muito fraco pra ter Windows e eu só vou programa para web, devo usar Linux?
     Sim. Linux Migt.
+
 
 :ballot_box_with_check: Revisão e Conclusão
 
