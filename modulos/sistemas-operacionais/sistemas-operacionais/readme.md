@@ -12,7 +12,8 @@
 
 Interface entre o usuário e a máquina.
 
-Programa que irá controlar seu aparelho (computador, celular).
+Programa que irá controlar seu aparelho (computador, celular):
+
     Gerenciamento de dispositivos (hardware);
     Gerenciamento de aplicativos e programas (software);
     Gerenciamento de tarefas.
@@ -23,16 +24,21 @@ Conversar com o computador em linguagem de máquina.
 
 :ballot_box_with_check: Características e Objetivo de um Sistema Operacional
 
-1. Fácil entendimento para o usuário.
-    Experiência do usuário.
+1. Fácil entendimento para o usuário:
 
-2. Controle de hardware
-    Uso de periféricos;
-    Memória;
-    HD.
+        Experiência do usuário.
 
-3. Gerenciamento dos Software
-    Programas.
+2. Controle de hardware:
+
+        Uso de periféricos;
+
+        Memória;
+
+        HD.
+
+3. Gerenciamento dos Software:
+
+        Programas.
 
 ---
 
@@ -41,34 +47,38 @@ Conversar com o computador em linguagem de máquina.
 Os dois grupos mais conhecidos são:
 
 Unix:
-    Linus
-    OS X
-    Android
-    iOS
+
+    Linus;
+    OS X;
+    Android;
+    iOS.
 
 Windows:
-    Windows 7
-    Windows 10
-    Windows Server
+
+    Windows 7;
+    Windows 10;
+    Windows Server.
 
 ---
 
 :ballot_box_with_check: Tipos de Interfaces do Usuário
 
-GUI:
-Graphical User Interface;
+GUI (Graphical User Interface).
 
-Interface gráfica, elementos gráficos.
+Interface gráfica, elementos gráficos:
+
     Cursor do mouse ou touch;
+
     Área de trabalho;
+
     Criar arquivos e pastas.
 
-CLI:
-Command-Line interface;
+CLI (Command-Line interface).
 
-Linha de comando;
+Linha de comando:
 
-Emitir comandos em texto para o computador.
+    Emitir comandos em texto para o computador;
+
     Criar arquivos e pastas, por exemplo.
 
 ---
@@ -85,7 +95,8 @@ Primeiro módulo a ser iniciado.
 
 Permanece executando enquanto o S.O (Sistema Operacional) estiver ligado.
 
-Responsabilidades.
+Responsabilidades:
+
     Gerenciamento de memória, processos, armazenamento e dispositivos.
 
 ---
@@ -94,20 +105,25 @@ Responsabilidades.
 
 Processo é um programa em execução.
 
-Agendamento de processos (scheduling).
+Agendamento de processos (scheduling):
+
     Qual processo está executando agora.
 
-Thread.
+Thread:
+
     A divisão de um processo para melhor performance;
+    
     Um pedacinho do processo;
+    
     Poderá executar em paralelo.
 
-Multitasking.
+Multitasking:
 
-Várias tarefas podem ser executadas simultaneamente.
+    Várias tarefas podem ser executadas simultaneamente.
+
     Troca muito rápida entre elas.
 
-Tarefas em segundo plano.
+    Tarefas em segundo plano.
 
 ---
 
@@ -116,11 +132,13 @@ Tarefas em segundo plano.
 File System.
 
 Organização e armazenamento dos arquivos.
+
     Vídeos, Imagens, Documentos.
 
 Diretórios (pastas).
 
 Tipos de sistemas de arquivos:
+
     FAT, NTFS;
     ext3, ext4;
     HFS+, APFS;
@@ -139,21 +157,27 @@ Pacotes (chocolatey, brew, apt, snap).
 :ballot_box_with_check: Dúvidas Frequentes
 
 Windows, Linux ou Mac para programar?
+
     O que você tiver a melhor experiência e conhecimento.
 
 Devo mudar de sistema operacional para programar para web?
+
     Não.
 
 Alguns dizem que Linux ou Mac é melhor para programar para web, por quê? E por quê vou continuar no Windows?
+
     Curva de aprendizado.
 
 Se for programar aplicativos nativos para iPhone ou Mac, qual S.O (Sistema Operacional) devo usar?
+
     Mac.
 
 Se for programar aplicativos para funcionar somente em Windows?
+
     Windows.
 
 Meu computador é muito fraco pra ter Windows e eu só vou programa para web, devo usar Linux?
+
     Sim. Linux Migt.
 
 ---

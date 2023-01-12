@@ -8,13 +8,13 @@
 
 Requisitos para este curso
 
-    Conhecimentos básicos de computador;
+    Conhecimentos básicos de computador
     
-    Software e Hardware;
+    Software e Hardware
     
-    Internet;
+    Internet
 
-    Programação para web.
+    Programação para web
 
 ---
 
@@ -44,30 +44,30 @@ Agrupamentos, estrutura (arquitetado) de várias páginas web
 
 Pode ser
     
-    Estático;
+    Estático
     
-    Dinâmico.
+    Dinâmico
 
 
-Website estático:
-Site estático.
+Website estático
+Site estático
 
-Páginas estáticas:
+Páginas estáticas
     
-    A página é sempre a mesma;
+    A página é sempre a mesma
     
-    Alteração direto no código e por quem criou.
+    Alteração direto no código e por quem criou
 
-Não interage com o banco de dados.
+Não interage com o banco de dados
 
-Website dinâmico:
-Site dinâmico.
+Website dinâmico
+Site dinâmico
 
 Conteúdo da página é dinâmico
 
-Interage com banco de dados.
+Interage com banco de dados
     
-    Dados + modelo de página = página dinâmica.
+    Dados + modelo de página = página dinâmica
 
 Modificação sem precisar mexer no código
 
@@ -75,21 +75,21 @@ Com o mesmo modelo de página, é gerada uma página em tempo real
 
 ---
 
-:ballot_box_with_check: O que é uma Aplicação WEB?
+:ballot_box_with_check: O que é uma Aplicação WEB
 
 Aplicação web
 
-Um programa, um software que vive no servidor.
+Um programa, um software que vive no servidor
     
-    Linguagens de programação;
+    Linguagens de programação
 
-    Banco de dados.
+    Banco de dados
 
-Utilizado a través de páginas web  e pelo navegador.
+Utilizado a través de páginas web  e pelo navegador
 
-É mais completo e possui mais requisitos.
+É mais completo e possui mais requisitos
 
-Exemplo:
+Exemplo
 
     Facebook, gmail, youtube, figma
 
@@ -99,9 +99,9 @@ Adaptação nos diversos dispositivos (responsividade)
 
 Performance
 
-Acessibilidade:
+Acessibilidade
 
-    Visual, auditiva, SEO.
+    Visual, auditiva, SEO
 
 ---
 
@@ -111,72 +111,72 @@ Acessibilidade:
 
 :ballot_box_with_check: Front-end vs Back-end
 
-Front-end:
+Front-end
 
 Cliente (client-side)
 
-Browser:
+Browser
 
-    Digita a URL e faz um pedido (request) para o servidor.
+    Digita a URL e faz um pedido (request) para o servidor
 
-Tecnologias:
+Tecnologias
     
-    HTML, CSS, JavaScript, Imagens;
+    HTML, CSS, JavaScript, Imagens
     
-    Frameworks e bibliotecas.
+    Frameworks e bibliotecas
 
-Back-end:
+Back-end
 
-Servidor (server-side).
+Servidor (server-side)
 
-Recebe o pedido do front-end:
+Recebe o pedido do front-end
     
-    Entende e processa o pedido e devolve para o front-end;
+    Entende e processa o pedido e devolve para o front-end
 
-    Regras de negócio da aplicação.
+    Regras de negócio da aplicação
 
-Tecnologias:
+Tecnologias
     
-    PHP, Java, Python, JavaScript;
-    Banco de dados.
+    PHP, Java, Python, JavaScript
+    Banco de dados
 
 ---
 
 :ballot_box_with_check: Aplicação WEB Tradicional vs SPA
 
-Aplicação WEB Tradicional.
+Aplicação WEB Tradicional
 
-Recarregar a página para ter conteúdo atualizado.
+Recarregar a página para ter conteúdo atualizado
 
-Front-end e o back-end numa só aplicação.
+Front-end e o back-end numa só aplicação
 
-Servidor processa e devolve toda a página de uma só vez.
+Servidor processa e devolve toda a página de uma só vez
 
-SPA:
+SPA
 
-Single Page Application.
+Single Page Application
     
-    A sensação é ter uma única página.
+    A sensação é ter uma única página
 
-Não precisa recarregar a página para ter o conteúdo atualizado.
+Não precisa recarregar a página para ter o conteúdo atualizado
 
-Front-end e Back são aplicações diferentes.
+Front-end e Back são aplicações diferentes
 
-Servidor responde a aplicação front-end.
+Servidor responde a aplicação front-end
 
-    Front-end feito com uso de frameworks;
-    Back-end é no formato de API.
+    Front-end feito com uso de frameworks
+    Back-end é no formato de API
 
 
 ---
 
 :ballot_box_with_check: Alinhando a sua jornada
 
-Sites estáticos.
+Sites estáticos
 
-Aplicação Web.
+Aplicação Web
 
-Single Page application.
+Single Page application
 
 ---
 
