@@ -10,4 +10,4 @@ O objetivo desse curso é conhecer melhor essa máquina maravilhosa que usamos t
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/computador-software-e-hardware)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/computador-software-e-hardware)

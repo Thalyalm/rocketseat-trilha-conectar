@@ -45,4 +45,4 @@ São ferramentas desenhadas para o usuário realizar ações.
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/computador-software-e-hardware)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/computador-software-e-hardware)
