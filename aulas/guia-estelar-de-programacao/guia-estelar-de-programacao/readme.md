@@ -1,7 +1,7 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
 [Aulas](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas) /
-[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
-
+[Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf) /
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/guia-estelar-de-programacao)
 ---
 
 :ballot_box_with_check: Abertura
