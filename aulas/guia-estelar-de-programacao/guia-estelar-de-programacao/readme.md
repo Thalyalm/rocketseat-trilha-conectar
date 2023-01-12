@@ -9,16 +9,22 @@
 
 Esse curso tem como objetivo de te dar os fundamentos da programação e entender um pouco mais sobre o web, precisamos desse conhecimento para então nos tornarmos aptos a estudar as diversas linguagens e tecnologias que vamos encontrar como desenvolvedores e desenvolvedoras web. Muito bem vamos diretos entender os fundamentos.
 
+---
+
 :ballot_box_with_check: Introdução aos fundamentos
 
 Nesta aula precisamos primeiro aprender o que é programar para que possamos programar de fato e para isso iremos entender o funcionamento web, para assim entendermos melhor ainda como fazer o fluxo de dados, troca de dados do que iremos criar para que alguém possa acessar.
 
 O que é WEB? Na internet significa uma maneira de estruturar trocas de comunicações entre computadores, como por exemplo, você possui o seu computador e do outro lado do mundo há outro, que tem um site que você queira acessar, para isso você precisa entender esse funcionamento para fazer a troca de informações, então vamos precisar aprender mais afundo para construirmos as nossas aplicações, e precisamos aprender o que é programar para nos comunicarmos com o computador. E nesse curso iremos aprender os fundamentos da programação, como transformar as ideias e como funciona a WEB.
     
+---
+
 :ballot_box_with_check: O que é programar?
 
 Nesta iremos aprender o que é programar. Programar é entender de algorítimos, que são por sua vez uma sequência lógica, passos para resolver um problema, usando a lógica de programação, que é como você aplica esses passos, ou seja, a construção do algorítimo, porém como o computador entende? Ele pensa? A resposta é não, ele apenas processa e calcula, recebendo ordens, que é através da linguagem de programação que você irá se comunicar e dar as instruções, usando tipos de dados, introduzindo rapidamente alguns, sendo "strings", que é uma sequência de caracteres, numérico, já diz, números, Boleano é um tipo de dado que diz se é verdadeiro ou falso e esses dados são bastante importantes para computador entender as instruções, manipulando esses dados é possível transformar eles no seu algorítimo, porém é necessário ser bem detalhista quanto as instruções, já que um computador não pensa e para finalizar, programar é resolver problemas através da lógica, sabendo dessas coisas agora torna mais fácil.
-    
+   
+---
+ 
 :ballot_box_with_check: Como funciona a Web?
 
 Nesta aula iremos aprender como funciona a Web, ela é mais complexa do que apenas digitar o site no navegador, existe todo um processo por trás e é isso que veremos.
@@ -36,3 +42,5 @@ O servidor analisa seu pedido e te dá a resposta, no caso positiva, a resposta 
 Isso foi apenas uma visão geral de como funciona a Web, neste caso o que ocorre quando digitamos um endereço de site e pressionamos o ENTER, esse processo ocorre em aplicativos de smartphone também.
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/aulas/guia-estelar-de-programacao)
