@@ -41,11 +41,8 @@ Usada para dar instruções ao computador.
 
 Computador
     Imagina o computador…;
-
     Input e Output;
-
     Executa tarefas e faz cálculos;
-
     Mas ele só entende uma língua: A binária.
 
 ---
