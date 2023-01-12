@@ -6,4 +6,6 @@
 
 :ballot_box_with_check: Introdução
 
+O objetivo desse curso é conhecer melhor essa máquina maravilhosa que usamos todos os dias, e as vezes não nos damos conta de tudo que tem por trás. E quando eu falamos de computador, também dizemos de celulares, tablet, ipad, e outros dispositivos, por serem mini-computadores.
+
 ---
