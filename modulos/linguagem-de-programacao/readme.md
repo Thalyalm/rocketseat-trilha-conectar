@@ -11,3 +11,5 @@ O conteúdo percorre o que é código e o que é codar, passando por conceitos c
 :ballot_box_with_check: [Linguagem de Programação](/modulos/linguagem-de-programacao//linguagem-de-programacao)
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /

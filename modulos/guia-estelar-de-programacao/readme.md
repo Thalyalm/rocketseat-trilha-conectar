@@ -11,3 +11,5 @@ O módulo traz uma introdução à programação com conceituações como algori
 :ballot_box_with_check: [Guia Estelar de Programação](/modulos/guia-estelar-de-programacao/guia-estelar-de-programacao)
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /

@@ -17,3 +17,5 @@ O conjunto de aulas se concentra no funcionamento do computador, desvendando as 
 :ballot_box_with_check: [Por dentro do computador](/modulos/computador-software-e-hardware/por-dentro-do-computador) 
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /

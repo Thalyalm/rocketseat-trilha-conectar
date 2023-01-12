@@ -11,3 +11,5 @@ O módulo analisa as web pages, com esclarecimentos do que são websites estáti
 :ballot_box_with_check: [Tipos de Aplicações WEB](/modulos/tipos-de-aplicacoes-web/tipos-de-aplicacoes-web)
 
 ---
+
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
