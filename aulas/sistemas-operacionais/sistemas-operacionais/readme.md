@@ -7,7 +7,11 @@
 
 :ballot_box_with_check: Introdução
 
+---
+
 :ballot_box_with_check: O que é o Sistema Operacional?
+
+---
 
 Interface entre o usuário e a máquina.
 
@@ -17,6 +21,8 @@ Programa que irá controlar seu aparelho (computador, celular).
     Gerenciamento de tarefas.
 
 Conversar com o computador em linguagem de máquina.
+
+---
 
 :ballot_box_with_check: Características e Objetivo de um Sistema Operacional
 
@@ -30,6 +36,8 @@ Conversar com o computador em linguagem de máquina.
 
 3. Gerenciamento dos Software
     Programas.
+
+---
 
 :ballot_box_with_check: Grupos de Sistemas Operacionais
 
@@ -45,6 +53,8 @@ Windows:
     Windows 7
     Windows 10
     Windows Server
+
+---
 
 :ballot_box_with_check: Tipos de Interfaces do Usuário
 
@@ -64,7 +74,11 @@ Linha de comando;
 Emitir comandos em texto para o computador.
     Criar arquivos e pastas, por exemplo.
 
+---
+
 :ballot_box_with_check: Módulos do Sistema Operacional
+
+---
 
 :ballot_box_with_check: Kernel
 
@@ -96,6 +110,8 @@ Várias tarefas podem ser executadas simultaneamente.
 
 Tarefas em segundo plano.
 
+---
+
 :ballot_box_with_check: Gerenciador de Arquivos
 
 File System.
@@ -110,6 +126,8 @@ Tipos de sistemas de arquivos:
     ext3, ext4;
     HFS+, APFS;
     São criados quando formatamos o nosso disco, por exemplo.
+
+---
 
 :ballot_box_with_check: Ferramentas de Gerenciamento
 
@@ -136,6 +154,8 @@ Se for programar aplicativos para funcionar somente em Windows?
 
 Meu computador é muito fraco pra ter Windows e eu só vou programa para web, devo usar Linux?
     Sim. Linux Migt.
+
+---
 
 :ballot_box_with_check: Revisão e Conclusão
 
