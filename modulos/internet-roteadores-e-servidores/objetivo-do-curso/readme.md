@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
 
 ---
@@ -14,4 +14,4 @@ Nesse curso veremos como seu computador se conecta com a internet, e como as inf
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/internet-roteadores-e-servidores)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/internet-roteadores-e-servidores/readme.md)

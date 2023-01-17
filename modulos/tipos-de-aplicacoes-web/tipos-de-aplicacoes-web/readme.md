@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
 
 ---
@@ -170,4 +170,4 @@ Single Page application.
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/tipos-de-aplicacoes-web)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/tipos-de-aplicacoes-web/readme.md)

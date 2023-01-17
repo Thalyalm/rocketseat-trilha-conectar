@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
 
 ---
@@ -10,4 +10,4 @@ O objetivo desse curso é conhecer melhor essa máquina maravilhosa que usamos t
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/computador-software-e-hardware)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/computador-software-e-hardware/readme.md)

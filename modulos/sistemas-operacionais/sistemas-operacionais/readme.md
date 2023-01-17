@@ -1,5 +1,5 @@
 [Início](https://github.com/Thalyalm/rocketseat-trilha-conectar) /
-[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos) /
+[Módulos](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/readme.md) /
 [Certificado](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/certificado/certificado-trilha-conectar.pdf)
 
 ---
@@ -197,4 +197,4 @@ Provavelmente seu sistema atual vai servir para você programar para web.
 
 ---
 
-[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/sistemas-operacionais)
+[Voltar](https://github.com/Thalyalm/rocketseat-trilha-conectar/tree/main/modulos/sistemas-operacionais/readme.md)
